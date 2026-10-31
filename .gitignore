@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+movies.csv
+debug.html
+debug_links.html
+.venv/
